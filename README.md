@@ -1,35 +1,127 @@
-<h1 align="center">Hi 👋, I'm Cherinet</h1>
-<h3 align="center">A passionate full-stack developer from Ethiopia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meke16&label=Profile%20views&color=0e75b6&style=flat" alt="meke16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meke16" alt="meke16" /></a> </p>
-
-- 🔭 I’m currently working on [School Management System](https://skillfy.free.nf/admin-entry?i=1)
-
-- 🌱 I’m currently learning **Goravel and Python**
-
-- 👨‍💻 All of my projects are available at [https://cherex.vercel.app/](https://cherex.vercel.app/)
-
-- 💬 Ask me about **Laravel,Express js,React js**
-
-- 📫 How to reach me **habtamucherinet40@gmail.com**
-
-- ⚡ Fun fact **I am village boys try to be best software engineer and manage!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meke16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meke16" height="30" width="40" /></a>
-<a href="https://fb.com/cheru.hb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cheru.hb" height="30" width="40" /></a>
-<a href="https://instagram.com/c_h_e_r_hb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_h_e_r_hb" height="30" width="40" /></a>
-<a href="https://discord.gg/cherinethabtamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cherinethabtamu" height="30" width="40" /></a>
+<!-- Banner or Custom Logo: you can use your own image/logo here -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/67032879?v=4" alt="Cherinet Logo" width="120" height="120" style="border-radius: 50%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Cherinet (meke16)</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Ethiopia 🇪🇹</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meke16&show_icons=true&locale=en&layout=compact" alt="meke16" /></p>
+<p align="center">
+  <a href="https://cherex.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-cherex.vercel.app-0e75b6?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/meke16" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-meke16-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://fb.com/cheru.hb" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-cheru.hb-1877f2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:habtamucherinet40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-habtamucherinet40@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meke16&show_icons=true&locale=en" alt="meke16" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meke16&label=Profile%20views&color=0e75b6&style=flat-square" alt="meke16" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meke16&" alt="meke16" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on: **[School Management System](https://skillfy.free.nf/admin-entry?i=1)**
+- 🌱 Always Learning: **Goravel, Python, and more modern stacks**
+- 💼 All my projects: [cherex.vercel.app](https://cherex.vercel.app/)
+- 🤝 Open to remote collaborations & freelance opportunities
+- 💬 Ask me about: **Laravel, Express.js, React.js, Node.js**
+- 📫 Reach me at: **habtamucherinet40@gmail.com**
+- ⚡ Fun fact: *Village boy dreaming big—engineer, builder, unstoppable! 🚜 💻*
+
+---
+
+## 🏆 Achievements & Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=meke16&margin-w=7&theme=gruvbox&row=1" alt="Profile Trophies" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meke16&show_icons=true&theme=radical&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meke16&layout=compact&theme=radical&hide=shaderlab,hlsl" height="160"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meke16&theme=radical" height="160"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/meke16" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32"/>
+  </a>
+  <a href="https://fb.com/cheru.hb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="32"/>
+  </a>
+  <a href="https://instagram.com/c_h_e_r_hb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32"/>
+  </a>
+  <a href="https://discord.gg/cherinethabtamu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="32" width="32"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js" width="40" height="40" alt="Chart.js"/>
+</div>
+
+---
+
+### 💡 Fun Motto
+
+> "Stay Hungry. Stay Foolish. — But always keep coding as a Dream Chaser from the village to the world!"
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0E75B6&center=true&width=435&lines=Nice+to+meet+you!+Let's+build+something+awesome!;You+can+call+me+'Cheru';Full-stack+Dev+%7C+Open+Source+Fan+%7C+🚀" />
+</p>
+
+```
+- **Notes:**
+  - Your avatar is used as a "logo" at the top; to change, update the `src` link.
+  - Shields/badges styled for a pro look and consistence; stats and trophies center-aligned.
+  - Tech stack icons use reliable [jsdelivr CDN](https://cdn.jsdelivr.net/gh/devicons/devicon/) for best uptime.
+  - If a particular image (e.g., **chartjs logo**) doesn't show on GitHub, consider replacing with a PNG/SVG link from a devicons repo or host it yourself.
+  - Motto, typing SVG and "about" texts are made motivational and professional for your brand.
+
+Let me know if you want further customization or a different quote/photo!
