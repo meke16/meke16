@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [School Management System](https://skillfy.free.nf/admin-entry?i=1)
 
-- 🌱 I’m currently learning **Goravel**
+- 🌱 I’m currently learning **Goravel and Python**
 
 - 👨‍💻 All of my projects are available at [https://cherex.vercel.app/](https://cherex.vercel.app/)
 
