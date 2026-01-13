@@ -115,13 +115,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0E75B6&center=true&width=435&lines=Nice+to+meet+you!+Let's+build+something+awesome!;You+can+call+me+'Cheru';Full-stack+Dev+%7C+Open+Source+Fan+%7C+🚀" />
 </p>
-
-```
-- **Notes:**
-  - Your avatar is used as a "logo" at the top; to change, update the `src` link.
-  - Shields/badges styled for a pro look and consistence; stats and trophies center-aligned.
-  - Tech stack icons use reliable [jsdelivr CDN](https://cdn.jsdelivr.net/gh/devicons/devicon/) for best uptime.
-  - If a particular image (e.g., **chartjs logo**) doesn't show on GitHub, consider replacing with a PNG/SVG link from a devicons repo or host it yourself.
-  - Motto, typing SVG and "about" texts are made motivational and professional for your brand.
-
-Let me know if you want further customization or a different quote/photo!
